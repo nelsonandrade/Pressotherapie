@@ -71,7 +71,7 @@ header{
 }
 #ap p{
     color: black;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 25px;
     width: 950px;
     text-align: justify;
@@ -80,5 +80,113 @@ header{
     margin-left: 250px;
     padding-top: 10px;
     padding-bottom: 20px;
-
 }
+#Restrictions{
+    text-align: center;
+    margin-top: 20px;
+}
+#Restrictions h2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+#Restrictions{
+    text-align: center;
+    align-items: center;
+}
+#Restrictions h1{
+    color: white;
+    text-shadow: 2px 2px 5px black;
+}
+#Restrictions ul {
+    width: 550px;
+    border: 2px solid rgb(251, 247, 247);
+    box-shadow: 2px 2px 5px black;
+    background: white;
+    color: rgb(177, 6, 6);
+    text-decoration:  none;
+    list-style: none;
+    padding-top: 10px;
+    margin-left: 400px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    white-space: 2px;
+}
+#prestations{
+    width: 950px;
+    text-align: center;
+    margin-left: 250px;
+}
+#prestations h1, h2{
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+}
+#prestations h1{
+    margin-top: 30px;
+}
+#prestations p{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+#prestations h3{
+    text-transform: lowercase;
+    margin-top: 10px;
+}
+#prestations span{
+    font-weight: bolder;
+}
+
+
+
+
+
+
+#footer{
+    width:99%;
+    height: 300px;
+    margin: 10px 10px;
+    background-image:url(img/Flower\ background\ 04.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100% ;
+    display: flex;
+    padding-top: 50px;
+}
+.press{
+    height: 150px;
+}
+.press h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    width: auto;
+    height: 150px;
+    padding-left: 350px;
+}
+.redes-sociais ul{
+    display: flex; 
+    height: 100px;
+    margin-top: 200px;
+    margin-left: 0px;   
+}
+
+.redes-sociais  li{
+    margin-right: 1rem;
+    list-style: none;
+}
+
+.redes-sociais img{
+    width: 50px;
+    height: 50px;
+    margin-top: 1rem;
+}
+.copyright{
+    display: flex;
+    font-size: 24px;
+    color:black;
+    text-shadow: 2px 2px 16px black;
+    margin: 35vh 20vh;
+}
+
